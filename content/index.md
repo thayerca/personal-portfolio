@@ -3,13 +3,9 @@ title: "Casey's Portfolio"
 description: "A minimalist, markdown-powered portfolio site."
 ---
 
-# Hello World
-
-Hi, I’m Casey. This is my small corner of the internet, built using Markdown.
+# Casey Thayer - Manager, Software Engineering at the Philadelphia Phillies
 
 ## <span id="about">About</span>
-
-I am a software engineer and data enthusiast with a passion for minimal, efficient web development.
 
 ## <span id="projects">Projects</span>
 
