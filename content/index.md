@@ -5,7 +5,7 @@ description: "A minimalist, markdown-powered portfolio site."
 
 ## <span id="about">About</span>
 
-I'm the Manager of Software Engineering at the Philadelphia Phillies, where I manage a team of engineers and own the delivery of data engineering and applied biomechanics pipelines and data product commitments. My background spans machine learning, distributed systems, and platform architecture. Prior to joining the Phillies, I was an Engineering Lead at Zelus Analytics and worked across biotech and sports, building data products that power decision-making at scale.
+I’m the Manager of Software Engineering at the Philadelphia Phillies, where I lead a team of engineers and am responsible for delivering data engineering infrastructure, applied biomechanics pipelines, and core data products that support baseball operations. My background includes machine learning, distributed systems, and platform architecture. Before joining the Phillies, I was an Engineering Lead at Zelus Analytics and previously worked across biotech and sports, building data systems that support high-impact decision-making.
 
 ## <span id="work-experience">Work Experience</span>
 
@@ -73,11 +73,11 @@ _January 2015 - April 2017_
 Feel free to reach out via any of the platforms below:
 
 <a href="mailto:casey.thayer6@gmail.com" target="_blank">
-  <img src="public/email.svg" alt="Email" width="28" />Email </a>
+  Email</a>
 <br></br>
 <a href="https://github.com/thayerca" target="_blank">
-  <img src="public/github.svg" alt="GitHub" width="28" />Github </a>
+  Github</a>
 <br></br>
 <a href="https://www.linkedin.com/in/casey-thayer" target="_blank">
-  <img src="public/linkedin.svg" alt="LinkedIn" width="28" />LinkedIn</a>
+  LinkedIn</a>
 <br></br>
