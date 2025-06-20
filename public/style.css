@@ -11,6 +11,8 @@
   --green: #a6e3a1;
   --yellow: #f9e2af;
   --pink: #f5c2e7;
+  --link-color: #63b3ed; /* Blue-300 */
+  --link-hover: #90cdf4; /* Blue-200 */
 }
 
 /* Light Mode (Catppuccin Latte) */
@@ -26,6 +28,8 @@
   --green: #40a02b;
   --yellow: #df8e1d;
   --pink: #ea76cb;
+  --link-color: #2b6cb0; /* Blue-600 */
+  --link-hover: #2c5282; /* Blue-700 */
 }
 
 /* Global Styles */
@@ -172,4 +176,22 @@ footer {
   font-size: 14px;
   color: var(--subtext0);
   border-top: 1px solid var(--surface2);
+}
+#contact a img {
+  margin-right: 10px;
+  vertical-align: middle;
+  transition: transform 0.2s ease;
+}
+
+#contact a:hover img {
+  transform: scale(1.1);
+}
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: var(--link-hover);
 }
