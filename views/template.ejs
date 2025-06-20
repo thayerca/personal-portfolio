@@ -1,36 +1,46 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="mocha">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><%= title %></title>
-    <link rel="stylesheet" href="/public/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= title %></title>
+  <link rel="stylesheet" href="/public/style.css">
+
+  <!-- ✅ Font Awesome must be inside the <head> -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    integrity="sha512-HF3lj5Y8R/czRkOwC7nFzHqOWpQGLbgT/5KcSpAGH++9KlJUZmJYFY+MCC+2RAE5JcA8YPJINBoRx15RO3OE2Q=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
 </head>
 <body>
-<header>
+  <header>
     <h1>Casey Thayer</h1>
     <nav>
-        <a href="#about">About</a>
-        <a href="#work-experience">Work Experience</a>
-        <a href="#community-impact">Community Impact</a>
-        <a href="#professional-contributions">Professional Contributions</a>
-        <a href="#contact">Contact</a>
+      <a href="#about">About</a>
+      <a href="#work-experience">Work Experience</a>
+      <a href="#community-impact">Community Impact</a>
+      <a href="#professional-contributions">Professional Contributions</a>
+      <a href="#contact">Contact</a>
     </nav>
     <button id="theme-toggle">🌙</button>
-</header>
+  </header>
 
-    <main class="container">
-        <section class="content">
-            <%- content %>  <!-- Render Markdown here -->
-        </section>
-    </main>
+  <main class="container">
+    <section class="content">
+      <%- content %>  <!-- Render Markdown here -->
+    </section>
+  </main>
+  <footer>
+    <div class="container">
+      <p>© <%= new Date().getFullYear() %> Casey Thayer |
+        <a href="https://github.com/thayerca">GitHub</a>
+      </p>
+    </div>
+  </footer>
 
-    <footer>
-        <div class="container">
-            <p>© <%= new Date().getFullYear() %> Casey Thayer | <a href="https://github.com/yourgithub">GitHub</a></p>
-        </div>
-    </footer>
-
-    <script src="/public/script.js"></script>
+  <script src="/public/script.js"></script>
 </body>
 </html>
