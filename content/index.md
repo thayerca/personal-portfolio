@@ -3,70 +3,48 @@ title: "👩‍💻 Casey Thayer"
 description: "A minimalist, markdown-powered portfolio site."
 ---
 
-## <span id="about">About</span>
+👋 Hi, I'm Casey
 
-I’m the Manager of Software Engineering at the Philadelphia Phillies, where I lead a team of engineers and am responsible for delivering data engineering infrastructure, applied biomechanics pipelines, and core data products that support baseball operations. My background includes machine learning, distributed systems, and platform architecture. Before joining the Phillies, I was an Engineering Lead at Zelus Analytics and previously worked across biotech and sports, building data systems that support high-impact decision-making.
+I'm an engineering leader, systems thinker, and former athlete who now leads the Data Engineering team at the Philadelphia Phillies.
+
+I started my career in biotech, developing software to support cutting-edge cell therapy research. From there, I moved into sports, most recently at Zelus Analytics, where I led the system design and development of the NBA intelligence platform.
+
+I’m passionate about building scalable systems, leading high-performing teams, and designing tools that help decision-makers compete at the highest level.
+
+Outside of work, I’m a tinkerer—I built my own PC, fine-tune my dev environment (Vim over everything), and love learning new things. I’m an aspiring sub-90 golfer and recently picked up tennis.
 
 ## <span id="work-experience">Work Experience</span>
 
-### Engineering Lead - Zelus Analytics
-
-_August 2023 - October 2024_
+**Engineering Lead - Zelus Analytics** (_Aug 2023 - Oct 2024_)
 
 - Led system design and development of the NBA intelligence platform, delivering production-ready models tailored to team needs in collaboration with product and data science.
 - Built company-wide architecture supporting multi-sport platforms and partnered with teams to deliver scalable, high-impact solutions.
 
-### Machine Learning Engineer - Zelus Analytics
+**Machine Learning Engineer** - Zelus Analytics (_Oct 2021 - Aug 2023_)
 
-_October 2021 - August 2023_
+**Data Engineer / Scientist** - Bristol Myers Squibb (_Mar 2020 - Oct 2021_)
 
-- Built sports intelligence platforms by creating, automating, and deploying quantitative models to help professional sports teams compete and win championships
+**Senior Research Associate** - Juno Therapeutics (_Apr 2017 - Mar 2020_)
 
-### Data Engineer / Scientist - Bristol Myers Squibb
-
-_March 2020 - October 2021_
-
-- Established and implemented custom software to optimize data pipelines for teams developing & commercializing CAR-T cell therapies
-
-### Senior Research Associate - Juno Therapeutics
-
-_April 2017 - March 2020_
-
-- Designed and executed lab experiments to create manufacturing processes for CAR-T cell therapy products
-
-### Research Technician I-II - Fred Hutch Cancer Research Center
-
-_January 2015 - April 2017_
-
-- Contributed to a cutting-edge flow cytometry laboratory in supporting global vaccine trials and innovating novel methods to drive HIV vaccine research
+**Research Technician I-II** - Fred Hutch Cancer Research Center (_Jan 2015 - Apr 2017_)
 
 ## <span id="community-impact">Community Impact</span>
 
-- [**Women in Sports Data**](https://womeninsportsdata.org/) - _Co-Founder_
+**[Women in Sports Data](https://womeninsportsdata.org/)** - _Co-Founder_
 
-- **Social Impact Analytics Institute** - _[Former] Non-Profit Founder, Senior Data Scientist_
+**Social Impact Analytics Institute** - _[Former] Non-Profit Founder, Senior Data Scientist_
 
 ## <span id="professional-contributions">Professional Contributions</span>
 
-- **Panel Moderator — Women in Sports Data 2023**
+- **Panel Moderator — Women in Sports Data 2023**: _The Power of Data in Player Peformance_
 
-  _The Power of Data in Player Peformance_
+- **Podcast Guest — The Double Pivot**: [_World Cup Quarterfinals (with Arielle Dror)_](https://open.spotify.com/episode/52r1dKhCgBUi1QNHrxdzAv)
 
-- **Podcast Guest — The Double Pivot**
+- **Technical Talk — WiDS NYC @ Buzzer**: [_Agile Infrastructure for Building & Deploying ML Models for NBA Teams_](https://www.youtube.com/watch?v=ETnbTTQyTH8&t=7431s)
 
-  [_World Cup Quarterfinals (with Arielle Dror)_](https://open.spotify.com/episode/52r1dKhCgBUi1QNHrxdzAv)
+- **Panelist — Women in Sports Data 2022**: _Software Egnineering for Sports Analytics_
 
-- **Technical Talk — WiDS NYC @ Buzzer**
-
-  [_Agile Infrastructure for Building & Deploying ML Models for NBA Teams_](https://www.youtube.com/watch?v=ETnbTTQyTH8&t=7431s)
-
-- **Panelist — Women in Sports Data 2022**
-
-  _Software Egnineering for Sports Analytics_
-
-- **3rd Author — Publication in Journal of Clinical Investigation Insights**
-
-  [_Th2-Biased Transcriptional Profile Predicts HIV Envelope-Specific Polyfunctional CD4+ T Cells That Correlated with Reduced Risk of Infection in RV144 Trial_](https://pubmed.ncbi.nlm.nih.gov/35803696/)
+- **3rd Author — Publication in Journal of Clinical Investigation Insights**: [_Th2-Biased Transcriptional Profile Predicts HIV Envelope-Specific Polyfunctional CD4+ T Cells That Correlated with Reduced Risk of Infection in RV144 Trial_](https://pubmed.ncbi.nlm.nih.gov/35803696/)
 
 ## <span id="contact">Contact</span>
 
