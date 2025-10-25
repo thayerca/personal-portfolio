@@ -1,5 +1,5 @@
 ---
-title: "👩‍💻 Casey Thayer"
+title: "👩‍💻 Casey Luna"
 description: "My static personal portfolio"
 ---
 
