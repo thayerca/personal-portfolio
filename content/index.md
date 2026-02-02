@@ -1,23 +1,28 @@
 ---
-title: "👩‍💻 Casey Thayer"
-description: "A minimalist, markdown-powered portfolio site."
+title: "👩‍💻 Casey Luna"
+description: "My static personal portfolio"
 ---
 
 👋 Hi, I'm Casey
 
-I'm an engineering leader, systems thinker, and former athlete who now leads the Data Engineering team at the Philadelphia Phillies.
+I'm an engineering leader, systems thinker, former athlete, and lifelong sports sicko who now leads the Data Engineering team at the Philadelphia Phillies.
 
-I started my career in biotech, developing software to support cutting-edge cell therapy research. From there, I moved into sports, most recently at Zelus Analytics, where I led the system design and development of the NBA intelligence platform.
+I began my career in biotech, developing software to support cutting-edge cell therapy research, before moving into sports. Most recently, I led I led the design and development of the engineering platform behind the NBA intelligence product at Zelus Analytics.
 
 I’m passionate about building scalable systems, leading high-performing teams, and designing tools that help decision-makers compete at the highest level.
 
-Outside of work, I’m a tinkerer—I built my own PC, fine-tune my dev environment (Vim over everything), and love learning new things. I’m an aspiring sub-90 golfer and recently picked up tennis.
+Outside of work, I’m a tinkerer -- I built my own PC, love dialing in my dev environment (Neovim + tmux), and enjoy learning new things. I’m an aspiring sub-90 golfer and recently picked up tennis.
 
 ## <span id="work-experience">Work Experience</span>
 
+**Manager, Software Engineering - Philadelphia Phillies** (_Oct 2024 - Present_)
+
+- Head of Data Engineering: Direct an eight-person team within the Phillies’ Baseball R&D department, building the data systems that power decision-making across scouting, coaching, player development, and the front office.
+- Define the technical vision and roadmap for how data moves through the organization ensuring reliability, scalability, and impact across baseball operations.
+
 **Engineering Lead - Zelus Analytics** (_Aug 2023 - Oct 2024_)
 
-- Led system design and development of the NBA intelligence platform, delivering production-ready models tailored to team needs in collaboration with product and data science.
+- Led the design and development of the engineering platform powering the NBA intelligence product, delivering production-ready models tailored to team needs in collaboration with product and data science.
 - Built company-wide architecture supporting multi-sport platforms and partnered with teams to deliver scalable, high-impact solutions.
 
 **Machine Learning Engineer** - Zelus Analytics (_Oct 2021 - Aug 2023_)

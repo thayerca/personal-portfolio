@@ -1,3 +1,5 @@
+"use strict";
+
 const fs = require("fs-extra");
 const path = require("path");
 const matter = require("gray-matter");
@@ -11,9 +13,6 @@ const DIST_DIR = path.join(__dirname, "dist");
 
 // Ensure the output directory exists
 fs.ensureDirSync(DIST_DIR);
-
-// Load HTML template
-const template = fs.readFileSync(TEMPLATE_PATH, "utf-8");
 
 // Read all Markdown files
 fs.readdirSync(CONTENT_DIR).forEach((file) => {
