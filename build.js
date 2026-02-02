@@ -25,7 +25,7 @@ fs.readdirSync(CONTENT_DIR).forEach((file) => {
     // Render EJS template with Markdown content
     ejs.renderFile(
       TEMPLATE_PATH,
-      { title: data.title, content: htmlContent },
+      { title: data.title, description: data.description || '', content: htmlContent },
       (err, html) => {
         if (err) throw err;
         const outputFilePath = path.join(

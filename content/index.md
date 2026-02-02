@@ -1,6 +1,6 @@
 ---
-title: "👩‍💻 Casey Luna"
-description: "My static personal portfolio"
+title: "Casey Luna | Sports Analytics & Data Engineering Leader"
+description: "Casey Luna — Head of Data Engineering at the Philadelphia Phillies. Co-founder of Women in Sports Data. Speaker on ML infrastructure, sports analytics, and engineering leadership."
 ---
 
 *Data Engineering at the Phillies. Building systems that turn data into competitive advantage.*
