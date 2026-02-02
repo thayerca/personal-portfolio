@@ -1,3 +1,5 @@
+"use strict";
+
 const themeToggle = document.getElementById("theme-toggle");
 const root = document.documentElement;
 
