@@ -5,7 +5,11 @@
   "scripts": {
     "build": "node build.js",
     "dev": "nodemon --watch content --watch views --watch public --exec \"node build.js && node server.js\"",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "node build.js && node --test test/",
+    "test:only": "node --test test/",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "keywords": [],
   "author": "",
@@ -23,6 +27,8 @@
     "marked": "^15.0.7"
   },
   "devDependencies": {
+    "cheerio": "^1.0.0",
+    "eslint": "^9.0.0",
     "nodemon": "^3.1.9"
   }
 }
