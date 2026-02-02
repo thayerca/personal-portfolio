@@ -3,21 +3,17 @@ title: "👩‍💻 Casey Luna"
 description: "My static personal portfolio"
 ---
 
-👋 Hi, I'm Casey
+*Data Engineering at the Phillies. Building systems that turn data into competitive advantage.*
 
-I'm an engineering leader, systems thinker, former athlete, and lifelong sports sicko who now leads the Data Engineering team at the Philadelphia Phillies.
+Former dual-sport athlete. Co-founded [Women in Sports Data](https://womeninsportsdata.org). Forever sports sicko.
 
-I began my career in biotech, developing software to support cutting-edge cell therapy research, before moving into sports. Most recently, I led I led the design and development of the engineering platform behind the NBA intelligence product at Zelus Analytics.
-
-I’m passionate about building scalable systems, leading high-performing teams, and designing tools that help decision-makers compete at the highest level.
-
-Outside of work, I’m a tinkerer -- I built my own PC, love dialing in my dev environment (Neovim + tmux), and enjoy learning new things. I’m an aspiring sub-90 golfer and recently picked up tennis.
+Outside of work I tinker — built my own PC, obsess over my dev environment (Neovim + tmux), and chase a sub-90 round in golf. Recently picked up tennis.
 
 ## <span id="work-experience">Work Experience</span>
 
 **Manager, Software Engineering - Philadelphia Phillies** (_Oct 2024 - Present_)
 
-- Head of Data Engineering: Direct an eight-person team within the Phillies’ Baseball R&D department, building the data systems that power decision-making across scouting, coaching, player development, and the front office.
+- Head of Data & Biomech Engineering: Direct a nine person team within the Phillies’ Baseball R&D department, building the data systems that power decision-making across scouting, coaching, player development, and the front office.
 - Define the technical vision and roadmap for how data moves through the organization ensuring reliability, scalability, and impact across baseball operations.
 
 **Engineering Lead - Zelus Analytics** (_Aug 2023 - Oct 2024_)
@@ -41,21 +37,23 @@ Outside of work, I’m a tinkerer -- I built my own PC, love dialing in my dev e
 
 ## <span id="professional-contributions">Professional Contributions</span>
 
-- **Panel Moderator — Women in Sports Data 2023**: _The Power of Data in Player Peformance_
+- **Panel Moderator — Women in Sports Data 2023**: _The Power of Data in Player Performance_
 
 - **Podcast Guest — The Double Pivot**: [_World Cup Quarterfinals (with Arielle Dror)_](https://open.spotify.com/episode/52r1dKhCgBUi1QNHrxdzAv)
 
 - **Technical Talk — WiDS NYC @ Buzzer**: [_Agile Infrastructure for Building & Deploying ML Models for NBA Teams_](https://www.youtube.com/watch?v=ETnbTTQyTH8&t=7431s)
 
-- **Panelist — Women in Sports Data 2022**: _Software Egnineering for Sports Analytics_
+- **Panelist — Women in Sports Data 2022**: _Software Engineering for Sports Analytics_
 
 - **3rd Author — Publication in Journal of Clinical Investigation Insights**: [_Th2-Biased Transcriptional Profile Predicts HIV Envelope-Specific Polyfunctional CD4+ T Cells That Correlated with Reduced Risk of Infection in RV144 Trial_](https://pubmed.ncbi.nlm.nih.gov/35803696/)
 
 ## <span id="contact">Contact</span>
 
+Interested in having me speak at your event? Open to opportunities? Get in touch.
+
 <div style="display: flex; gap: 16px; align-items: center;">
   <!-- Email -->
-  <a href="mailto:casey.thayer6@gmail.com" target="_blank" aria-label="Email">
+  <a href="mailto:caseyluna25@gmail.com" target="_blank" aria-label="Email">
     <svg width="24" height="24" fill="#e63946" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
       <path d="M12 13.065 2.4 6.6A1 1 0 0 1 3 5h18a1 1 0 0 1 .6 1.8L12 13.065zM3 8.097V18h18V8.097l-9 6-9-6z"/>
     </svg>
@@ -81,7 +79,7 @@ Outside of work, I’m a tinkerer -- I built my own PC, love dialing in my dev e
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/casey-thayer" target="_blank" aria-label="LinkedIn">
+  <a href="https://www.linkedin.com/in/casey-luna" target="_blank" aria-label="LinkedIn">
     <svg width="24" height="24" fill="#0077b5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
       <path d="M20.447 20.452h-3.554v-5.569c0-1.327-.026-3.037-1.852-3.037-1.853 
       0-2.136 1.445-2.136 2.937v5.669h-3.554V9h3.414v1.561h.049c.476-.899 
