@@ -1,19 +1,19 @@
 ---
 title: "Casey Luna | Sports Analytics & Data Engineering Leader"
-description: "Casey Luna — Head of Data Engineering at the Philadelphia Phillies. Co-founder of Women in Sports Data. Speaker on ML infrastructure, sports analytics, and engineering leadership."
+description: "Casey Luna — Head of Data Engineering at the Philadelphia Phillies. Co-founder of Women in Sports Data. Speaker on ML engineering, sports analytics, and engineering leadership."
 ---
 
-*Data Engineering at the Phillies. Building systems that turn data into competitive advantage.*
+*Building systems that turn data into competitive advantage at the Phillies.*
 
-Former dual-sport athlete. Co-founded [Women in Sports Data](https://womeninsportsdata.org). Forever sports sicko.
+Former dual-sport athlete. Co-founder of [Women in Sports Data](https://womeninsportsdata.org). Forever sports sicko.
 
-Outside of work I tinker — built my own PC, obsess over my dev environment (Neovim + tmux), and chase a sub-90 round in golf. Recently picked up tennis.
+Outside of work I tinker — built my own PC, obsess over my dev environment (Neovim), and chase a sub-90 round in golf. Recently picked up tennis.
 
 ## <span id="work-experience">Work Experience</span>
 
 **Manager, Software Engineering - Philadelphia Phillies** (_Oct 2024 - Present_)
 
-- Head of Data & Biomech Engineering: Direct a nine person team within the Phillies’ Baseball R&D department, building the data systems that power decision-making across scouting, coaching, player development, and the front office.
+- Head of Data & Biomech Engineering: Direct a ten person team within the Phillies’ Baseball R&D department, building the data systems that power decision-making across scouting, coaching, player development, and the front office.
 - Define the technical vision and roadmap for how data moves through the organization ensuring reliability, scalability, and impact across baseball operations.
 
 **Engineering Lead - Zelus Analytics** (_Aug 2023 - Oct 2024_)
@@ -48,8 +48,6 @@ Outside of work I tinker — built my own PC, obsess over my dev environment (Ne
 - **3rd Author — Publication in Journal of Clinical Investigation Insights**: [_Th2-Biased Transcriptional Profile Predicts HIV Envelope-Specific Polyfunctional CD4+ T Cells That Correlated with Reduced Risk of Infection in RV144 Trial_](https://pubmed.ncbi.nlm.nih.gov/35803696/)
 
 ## <span id="contact">Contact</span>
-
-Interested in having me speak at your event? Open to opportunities? Get in touch.
 
 <div class="contact-icons">
   <!-- Email -->
