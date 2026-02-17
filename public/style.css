@@ -13,6 +13,7 @@
   --pink: #f5c2e7;
   --link-color: #89b4fa;
   --link-hover: #b4befe;
+  --phillies-red: #e81828;
 
   /* Layout */
   --container-max: 1100px;
@@ -37,6 +38,7 @@
   --pink: #ea76cb;
   --link-color: #2563eb;
   --link-hover: #1d4ed8;
+  --phillies-red: #c41e3a;
 }
 
 /* Global Styles */
@@ -292,7 +294,7 @@ body {
 
 .hero-info-column .hero-role {
   font-size: 1.125rem;
-  color: var(--subtext0);
+  color: var(--phillies-red);
   margin: 0.5rem 0 0.75rem;
   font-weight: 500;
 }
