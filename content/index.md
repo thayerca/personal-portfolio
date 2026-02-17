@@ -31,7 +31,7 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
   <div class="column-card">
     <p class="column-card-emoji">👩‍💻</p>
     <h3>Women in Sports Data</h3>
-    <p>I co-founded Women in Sports Data to build community and visibility for women in sports analytics and data roles. We host events, panels, and workshops to connect and support people across the industry.</p>
+    <p>I co-founded the Women in Sports Data Symposium in 2022 to cultivate community and cross-sport dialog among sports analytics experts. Each year it brings together 350+ attendees from every major North American league for panels, talks, and a $10k+ hackathon for the next generation of front office talent.</p>
   </div>
   <div class="column-card">
     <p class="column-card-emoji">🏀</p>
