@@ -59,7 +59,12 @@ describe("Output HTML structure", () => {
   it("has nav with required links", () => {
     const nav = $("header nav");
     assert.strictEqual(nav.length, 1, "Must have nav inside header");
-    const requiredHrefs = ["#work-experience", "#community-impact", "#professional-contributions", "#contact"];
+    const requiredHrefs = [
+      "#work-experience",
+      "#community-impact",
+      "#professional-contributions",
+      "#contact",
+    ];
     for (const href of requiredHrefs) {
       const link = nav.find(`a[href="${href}"]`);
       assert.strictEqual(link.length, 1, `Nav must contain exactly one link to ${href}`);
@@ -111,5 +116,21 @@ describe("Output HTML structure", () => {
       [],
       "All external links must use https: (found: " + httpLinks.join(", ") + ")"
     );
+  });
+
+  it("has three-column layout for What I Do section", () => {
+    const threeCols = $(".three-columns");
+    assert.strictEqual(threeCols.length, 1, "Must have .three-columns container");
+    const cards = threeCols.find(".column-card");
+    assert.strictEqual(cards.length, 3, "Must have three column cards");
+  });
+
+  it("has contributions grid with thumbnails", () => {
+    const grid = $(".contributions-grid");
+    assert.strictEqual(grid.length, 1, "Must have .contributions-grid");
+    const cards = grid.find(".contrib-card");
+    assert.ok(cards.length >= 1, "Must have at least one contribution card");
+    const thumbs = grid.find(".contrib-thumb");
+    assert.strictEqual(thumbs.length, cards.length, "Each card must have a thumbnail");
   });
 });
