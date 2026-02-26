@@ -24,24 +24,32 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
 
 <div class="three-columns">
   <div class="column-card">
-    <p class="column-card-emoji">⚾</p>
-    <h3>Phillies</h3>
-    <p>I lead Data &amp; Biomech Engineering at the Phillies running a ten-person team building the data systems that power decision-making across scouting, coaching, player development, and the front office. </p>
+    <div class="column-card-header">
+      <p class="column-card-emoji">⚾</p>
+      <h3>Phillies</h3>
+    </div>
+    <p>I lead Data &amp; Biomech Engineering at the Phillies where I run a 10 person team building the data systems that power decision-making across baseball operations, scouting, coaching, player development, and the front office. </p>
   </div>
   <div class="column-card">
-    <p class="column-card-emoji">👩‍💻</p>
-    <h3>Women in Sports Data</h3>
+    <div class="column-card-header">
+      <p class="column-card-emoji">👩‍💻</p>
+      <h3>Women in Sports Data</h3>
+    </div>
     <p>I co-founded the Women in Sports Data Symposium in 2022 to cultivate community and cross-sport dialog among sports analytics experts. Each year it brings together 350+ attendees from every major North American league for panels, talks, and a $10k+ hackathon for the next generation of front office talent.</p>
   </div>
   <div class="column-card">
-    <p class="column-card-emoji">🏀</p>
-    <h3>Zelus</h3>
+    <div class="column-card-header">
+      <p class="column-card-emoji">🏀</p>
+      <h3>Zelus</h3>
+    </div>
     <p>I built the engineering platform powering the NBA intelligence product at Zelus Analytics — delivering models and analytics tailored to NBA teams. I established company-wide architecture supporting multi-sport platforms and scalable, high-impact solutions.</p>
   </div>
   <div class="column-card">
-    <p class="column-card-emoji">🧬</p>
-    <h3>Biotech</h3>
-    <p>I spent seven years in biotech — from lab work on vaccine research at Fred Hutch and cancer immunotherapy at Juno (now BMS) to building software for scientists and research teams.</p>
+    <div class="column-card-header">
+      <p class="column-card-emoji">🧬</p>
+      <h3>Biotech</h3>
+    </div>
+    <p>I spent 7 years in biotech — from lab work on vaccine research at Fred Hutch and cancer immunotherapy at Juno (now BMS) to building software for scientists and research teams.</p>
   </div>
 </div>
 
