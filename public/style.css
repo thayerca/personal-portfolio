@@ -234,13 +234,14 @@ body {
 /* Hero section (three columns) */
 .hero-three-columns {
   display: grid;
-  grid-template-columns: minmax(120px, 180px) 1fr minmax(160px, 220px);
-  grid-template-rows: minmax(200px, auto);
-  gap: 1.5rem 2.5rem;
+  grid-template-columns: minmax(140px, 220px) 1fr minmax(180px, 260px);
+  grid-template-rows: minmax(60vh, 520px);
+  gap: 2rem 3rem;
   align-items: stretch;
   justify-items: center;
-  padding: 2rem 2.5rem;
-  margin-bottom: 2rem;
+  padding: 3rem 2.5rem;
+  margin-bottom: 0.75rem;
+  min-height: 70vh;
   background: transparent;
   border: none;
   border-radius: 0;
@@ -261,20 +262,17 @@ body {
 }
 
 .hero-headshot-column .hero-headshot {
-  flex: 1;
-  min-height: 0;
-  align-self: stretch;
+  flex: 0 0 auto;
+  align-self: flex-start;
 }
 
 .hero-headshot {
-  width: 100%;
-  max-width: 180px;
-  height: 100%;
-  max-height: 180px;
-  min-height: 0;
+  --headshot-size: min(220px, 100%);
+  width: var(--headshot-size);
+  height: var(--headshot-size);
   object-fit: cover;
   object-position: center top;
-  border-radius: 6px;
+  border-radius: 50%;
 }
 
 .hero-info-column {
@@ -284,7 +282,7 @@ body {
 }
 
 .hero-info-column .hero-name {
-  font-size: clamp(1.5rem, 4vw, 2.25rem);
+  font-size: clamp(2rem, 5vw, 3rem);
   font-weight: 600;
   letter-spacing: -0.03em;
   margin: 0 0 0.5rem;
@@ -292,16 +290,20 @@ body {
 }
 
 .hero-info-column .hero-role {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   color: var(--phillies-red);
-  margin: 0.5rem 0 0.75rem;
+  margin: 0.5rem 0 1rem;
   font-weight: 500;
 }
 
 .hero-info-column .hero-tagline {
-  font-size: 1.125rem;
-  margin: 0 0 0.75rem;
+  font-size: 1.25rem;
+  margin: 0 0 1.25rem;
   color: var(--text);
+}
+
+.hero-contact-icons {
+  margin-top: 0;
 }
 
 .hero-info-column .hero-subline {
@@ -408,7 +410,7 @@ body {
   font-size: 1.25rem;
   font-weight: 600;
   letter-spacing: -0.02em;
-  margin: 2rem 0 1rem;
+  margin: 1rem 0 1rem;
   color: var(--text);
 }
 
@@ -436,9 +438,9 @@ body {
 /* Layout: Three-column (Phillies, Zelus, Biotech) + Contributions grid */
 .three-columns {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: var(--grid-gap);
-  margin: 2rem 0 3rem;
+  margin: 1rem 0 3rem;
 }
 
 .column-card {
@@ -547,12 +549,6 @@ body {
   font-size: 0.7rem;
   color: var(--subtext0);
   line-height: 1.2;
-}
-
-@media (max-width: 900px) {
-  .three-columns {
-    grid-template-columns: repeat(2, 1fr);
-  }
 }
 
 @media (max-width: 1024px) {
