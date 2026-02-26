@@ -235,13 +235,14 @@ body {
 .hero-three-columns {
   display: grid;
   grid-template-columns: minmax(140px, 220px) 1fr minmax(180px, 260px);
-  grid-template-rows: minmax(60vh, 520px);
+  grid-template-rows: minmax(38vh, 380px);
   gap: 2rem 3rem;
   align-items: stretch;
   justify-items: center;
   padding: 3rem 2.5rem;
-  margin-bottom: 0.75rem;
-  min-height: 70vh;
+  padding-top: max(2rem, calc(26vh - 32px)); /* Center hero between header and Experience */
+  margin-bottom: 0.25rem;
+  min-height: 48vh;
   background: transparent;
   border: none;
   border-radius: 0;
@@ -267,9 +268,9 @@ body {
 }
 
 .hero-headshot {
-  --headshot-size: min(220px, 100%);
-  width: var(--headshot-size);
-  height: var(--headshot-size);
+  width: 220px;
+  height: 220px;
+  flex-shrink: 0;
   object-fit: cover;
   object-position: center top;
   border-radius: 50%;
@@ -372,8 +373,8 @@ body {
   }
 
   .hero-headshot {
-    max-width: 140px;
-    height: 190px;
+    width: 140px;
+    height: 140px;
   }
 
   .hero-currently-column {
@@ -407,11 +408,16 @@ body {
 }
 
 .content h2 {
-  font-size: 1.25rem;
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
   font-weight: 600;
   letter-spacing: -0.02em;
-  margin: 1rem 0 1rem;
+  margin: 0.15rem 0 1rem;
   color: var(--text);
+}
+
+.content h2:has(#work-experience),
+.content h2:has(#professional-contributions) {
+  font-size: clamp(1.4rem, 3.2vw, 1.9rem);
 }
 
 .content h2:first-child {
@@ -440,7 +446,7 @@ body {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: var(--grid-gap);
-  margin: 1rem 0 3rem;
+  margin: 0.15rem 0 11rem;
 }
 
 .column-card {
@@ -492,7 +498,7 @@ body {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 12px;
-  margin: 2rem 0 3rem;
+  margin: 0.15rem 0 3rem;
 }
 
 .contrib-card {

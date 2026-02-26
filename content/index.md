@@ -8,7 +8,7 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
     <img src="/public/headshot.png" alt="Casey Luna" class="hero-headshot" />
   </div>
   <div class="hero-column hero-info-column" id="contact">
-    <h1 class="hero-name">👋 I'm Casey Luna</h1>
+    <h1 class="hero-name">Casey Luna</h1>
     <p class="hero-role">Head of Data Engineering at the Philadelphia Phillies</p>
     <p class="hero-tagline">I build systems that turn data into a competitive advantage.</p>
     <div class="hero-contact-icons contact-icons">
