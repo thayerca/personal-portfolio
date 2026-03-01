@@ -38,7 +38,7 @@ description: "Casey Luna - Head of Data Engineering at the Philadelphia Phillies
   </div>
 </div>
 
-<p class="bio">Soccer and basketball have always been a massive part of my life - I played both at the University of Puget Sound - and even through seven years in biotech moving from bench scientist to data engineer, the pull toward sports never went away. At Zelus Analytics I built the platform behind their NBA intelligence product, working with five NBA teams to supplement their analytics departments before making the switch to baseball. Now at the Phillies I'm part of the R&D leadership team, running Data and Biomechanics engineering (10+ engineers) building the systems and products that support front office decision-making across scouting, player development, coaching, and baseball operations.</p>
+<p class="bio">Sports has always been a major part of my life - I played soccer and basketball at the University of Puget Sound - and even through seven years in biotech moving from bench scientist to data engineer, the pull toward sports never went away. At Zelus Analytics I built the platform behind their NBA intelligence product, working with five NBA teams to supplement their analytics departments before making the switch to baseball. Now at the Phillies I'm part of the R&D leadership team, running Data and Biomechanics engineering (10+ engineers) building the systems and products that support front office decision-making across scouting, player development, coaching, and baseball operations.</p>
 
 ## <span id="work-experience">Experience</span>
 
