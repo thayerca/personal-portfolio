@@ -559,16 +559,15 @@ body {
   display: flex;
   flex-direction: column;
   background: var(--surface0);
-  border: 1px solid var(--surface2);
+  border: none;
   border-radius: 6px;
   overflow: hidden;
   text-decoration: none;
   color: inherit;
-  transition: border-color 0.2s ease, transform 0.1s ease;
+  transition: transform 0.1s ease;
 }
 
 .contrib-card:hover {
-  border-color: var(--accent);
   transform: translateY(-1px);
 }
 
