@@ -1,6 +1,6 @@
 ---
-title: "Casey Luna | Sports & Software"
-description: "Casey Luna — Head of Data Engineering at the Philadelphia Phillies. Co-founder of Women in Sports Data. Speaker on software engineering, sports analytics, and engineering leadership."
+title: "Casey Luna | Sports Software & Analytics"
+description: "Casey Luna — Head of Data Engineering at the Philadelphia Phillies. Co-Founder of Women in Sports Data. Former collegiate dual-sport athlete building software products that translate analytics into front office decisions."
 ---
 
 <div class="hero-three-columns">
@@ -10,7 +10,7 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
   <div class="hero-column hero-info-column" id="contact">
     <h1 class="hero-name">Casey Luna</h1>
     <p class="hero-role">Head of Data Engineering at the Philadelphia Phillies</p>
-    <p class="hero-tagline">something | something | something</p>
+    <p class="hero-tagline">Collegiate Dual-Sport Athlete · R&D Engineering Leader · Front Office Intelligence</p>
     <div class="hero-contact-icons contact-icons">
       <a href="mailto:caseyluna25@gmail.com" target="_blank" aria-label="Email">
         <svg width="24" height="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -32,8 +32,10 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
   <div class="hero-column hero-currently-column">
     <h3 class="hero-currently-title">Currently</h3>
     <p class="hero-currently-item">⛳ Chasing a sub-90 golf round</p>
-        <p class="hero-currently-item">💾 Tinkering with a new Linux distro (Fedora) on my custom PC</p>
-    <p class="hero-currently-item">🎾 Learning to play tennis with my husband</p>
+    <p class="hero-currently-item">💾 Tinkering with a new Linux distro (Fedora) on my custom PC</p>
+    <p class="hero-currently-item">🏀 Manifesting a healthy Aaron Gordon and another Nuggets championship</p>
+    <p class="hero-currently-item">⚽ Fingers and toes crossed this is actually Arsenal's year</p>
+    <p class="hero-currently-item">🐕 Exploring new places with my husband and dog on weekends</p>
   </div>
 </div>
 
@@ -46,10 +48,10 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
       <h3>Phillies</h3>
     </div>
     <div class="column-card-body">
-      <p class="column-card-subheader">Manager, Software Engineering</p>
+      <p class="column-card-subheader">Head of Data Engineering</p>
       <ul class="column-card-list">
-        <li>Run Data &amp; Biomech Engineering teams (10 engineers)</li>
-        <li>Building data systems for baseball ops, scouting, coaching, player development, and front office</li>
+        <li>Lead Data &amp; Biomechanics engineering teams (10+ engineers) within the R&amp;D organization</li>
+        <li>Build systems and products that translate model outputs into decisions across baseball ops, scouting, player development, and front office</li>
       </ul>
     </div>
   </div>
@@ -61,8 +63,8 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
     <div class="column-card-body">
       <p class="column-card-subheader">Co-Founder</p>
       <ul class="column-card-list">
-        <li>Yearly conference establishing a community and cross-sport dialog among sports analytics experts</li>
-        <li>350+ attendees from every major North American league — panels, talks, $10k+ hackathon</li>
+        <li>Founded the premier cross-sport analytics conference — bridging software engineering and analytics across the NBA, NFL, MLB, MLS, and more</li>
+        <li>350+ attendees from every major North American league — panels, keynotes, and a $10k+ hackathon</li>
       </ul>
     </div>
   </div>
@@ -74,8 +76,8 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
     <div class="column-card-body">
       <p class="column-card-subheader">Senior Machine Learning Engineer</p>
       <ul class="column-card-list">
-        <li>Built engineering platform for NBA intelligence product — delivering models results and data to NBA teams</li>
-        <li>Developed company-wide architecture for multi-sport, scalable solutions</li>
+        <li>Engineered the platform powering NBA intelligence products — delivering analytics models directly to NBA front offices</li>
+        <li>Designed multi-sport scalable architecture spanning NBA, soccer, and beyond</li>
       </ul>
     </div>
   </div>
@@ -87,10 +89,8 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
     <div class="column-card-body">
       <p class="column-card-subheader">Associate Scientist / Data Engineer</p>
       <ul class="column-card-list">
-        <li>7 years in biotech</li>
-        <li>Vaccine research (Fred Hutch)</li>
-        <li>Cancer immunotherapy (Juno/BMS)</li>
-        <li>Software development for scientists and research teams</li>
+        <li>Transitioned from bench scientist to data engineer — building the software and data tools that research teams depended on</li>
+        <li>Vaccine research (Fred Hutch) · Cancer immunotherapy (Juno/BMS)</li>
       </ul>
     </div>
   </div>
@@ -112,7 +112,7 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
     <div class="contrib-content">
       <strong class="contrib-title">Podcast Guest</strong>
       <span class="contrib-subtitle">The Double Pivot - World Cup Quarterfinals (with Arielle Dror)</span>
-      <span class="contrib-text">Chatting soccer analytics and World Cup coverage</span>
+      <span class="contrib-text">Breaking down the Women's World Cup quarterfinals — match analysis and the state of women's soccer</span>
     </div>
   </a>
   <a href="https://www.youtube.com/watch?v=ETnbTTQyTH8&t=7431s" target="_blank" rel="noopener" class="contrib-card">
@@ -120,7 +120,7 @@ description: "Casey Luna — Head of Data Engineering at the Philadelphia Philli
     <div class="contrib-content">
       <strong class="contrib-title">Technical Talk</strong>
       <span class="contrib-subtitle">WiDS NYC @ Buzzer</span>
-      <span class="contrib-text">Technical presentation on deploying ML Models for NBA Teams</span>
+      <span class="contrib-text">Deep dive on building and deploying ML systems for NBA front offices</span>
     </div>
   </a>
   <a href="#" class="contrib-card">
