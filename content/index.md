@@ -3,218 +3,177 @@ title: "Casey Luna | Sports Software & Analytics"
 description: "Casey Luna - Head of Data Engineering at the Philadelphia Phillies. Co-Founder of Women in Sports Data. Former collegiate dual-sport athlete building software products that translate analytics into front office decisions."
 ---
 
-<div class="hero-three-columns">
-  <div class="hero-column hero-headshot-column">
-    <img src="/public/headshot.png" alt="Casey Luna" class="hero-headshot" />
-  </div>
-  <div class="hero-column hero-info-column" id="contact">
-    <h1 class="hero-name">Casey Luna</h1>
-    <p class="hero-role">Head of Data Engineering at the Philadelphia Phillies</p>
-    <p class="hero-tagline">Collegiate Dual-Sport Athlete · R&D Engineering Leader · Front Office Intelligence</p>
-    <div class="hero-contact-icons contact-icons">
-      <a href="mailto:caseyluna25@gmail.com" target="_blank" aria-label="Email">
-        <svg width="24" height="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-          <path d="M12 13.065 2.4 6.6A1 1 0 0 1 3 5h18a1 1 0 0 1 .6 1.8L12 13.065zM3 8.097V18h18V8.097l-9 6-9-6z"/>
-        </svg>
-      </a>
-      <a href="https://github.com/caseyluna" target="_blank" aria-label="GitHub">
-        <svg width="24" height="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-          <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.387.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.757-1.333-1.757-1.09-.745.084-.729.084-.729 1.205.084 1.84 1.236 1.84 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.418-1.305.762-1.605-2.665-.3-5.467-1.334-5.467-5.93 0-1.31.47-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23a11.5 11.5 0 0 1 3-.405c1.02.005 2.045.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.435.375.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
-        </svg>
-      </a>
-      <a href="https://www.linkedin.com/in/casey-a-luna" target="_blank" aria-label="LinkedIn">
-        <svg width="24" height="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-          <path d="M20.447 20.452h-3.554v-5.569c0-1.327-.026-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.937v5.669h-3.554V9h3.414v1.561h.049c.476-.899 1.637-1.848 3.367-1.848 3.6 0 4.267 2.368 4.267 5.455v6.284zM5.337 7.433a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124zM6.956 20.452H3.716V9h3.24v11.452zM22.225 0H1.771C.792 0 0 .771 0 1.723v20.555C0 23.229.792 24 1.771 24h20.451C23.2 24 24 23.229 24 22.278V1.723C24 .771 23.2 0 22.222 0z"/>
-        </svg>
-      </a>
-    </div>
-  </div>
-  <div class="hero-column hero-currently-column">
-    <h3 class="hero-currently-title">Currently</h3>
-    <p class="hero-currently-item">⛳ Chasing a sub-90 golf round</p>
-<p class="hero-currently-item">🏀 Manifesting a healthy Aaron Gordon and another Nuggets championship</p>
-    <p class="hero-currently-item">⚽ Fingers and toes crossed this is actually Arsenal's year</p>
-    <p class="hero-currently-item">🐕 Exploring new places with my husband and dog on weekends</p>
-  </div>
+<div class="hero-section">
+<div class="hero-inner">
+<header class="hero-header">
+<img src="/public/headshot.png" alt="Casey Luna" class="hero-headshot" />
+<div class="hero-info">
+<div class="hero-label">Front-office executive</div>
+<h1 class="hero-name">Casey Luna</h1>
+<p class="hero-role">Head of Data Engineering at the <span class="hero-role-accent">Philadelphia Phillies</span></p>
+<p class="hero-tagline">Collegiate Dual-Sport Athlete · R&amp;D Engineering Leader · Front Office Intelligence</p>
+<div class="hero-links">
+<a class="lnk" href="mailto:caseyluna25@gmail.com">Email</a>
+<a class="lnk" href="https://github.com/caseyluna" target="_blank" rel="noopener">GitHub</a>
+<a class="lnk" href="https://www.linkedin.com/in/casey-a-luna" target="_blank" rel="noopener">LinkedIn</a>
+</div>
+</div>
+</header>
+<p class="currently-line"><span class="currently-label">Currently</span>chasing a sub-90 golf round · manifesting another Nuggets chip · enjoying Arsenal being top of the table · exploring new places with my husband & dog</p>
+<section class="about-section">
+<p class="about-text">Sports has always been a major part of my life - I played soccer and basketball at the University of Puget Sound - and even through seven years in biotech moving from bench scientist to data engineer, the pull toward sports never went away. At <span class="text-bright">Zelus Analytics</span> I built the platform behind their NBA intelligence product, working with five NBA teams to supplement their analytics departments before making the switch to baseball. Now at the <span class="text-bright">Phillies</span> I'm part of the R&amp;D leadership team, running Data and Biomechanics engineering (10+ engineers) building the systems and products that support front office decision-making across scouting, player development, coaching, and baseball operations.</p>
+</section>
+</div>
 </div>
 
-<p class="bio">Sports is a major part of my life - I played soccer and basketball at the University of Puget Sound - even after seven years in biotech moving from a lab scientist to data engineer, the pull toward sports never went away. At Zelus Analytics I built the platform behind their NBA intelligence product, working with five NBA teams to supplement their analytics departments before making the switch to baseball. Now at the Phillies I'm part of the R&D leadership team, running Data and Biomechanics engineering, building the systems and products that support front office decision-making across scouting, player development, coaching, and baseball operations.</p>
+<div class="main-content">
 
-## <span id="work-experience">Experience</span>
-
-<div class="three-columns">
-  <div class="column-card">
-    <div class="column-card-header">
-      <p class="column-card-emoji">⚾</p>
-      <h3>Phillies</h3>
-    </div>
-    <div class="column-card-body">
-      <p class="column-card-subheader">Head of Data Engineering</p>
-      <ul class="column-card-list">
-        <li>Lead Data &amp; Biomechanics engineering teams (overseeing 10+ engineers)</li>
-        <li>Build systems and products that translate model outputs into decisions across baseball ops, scouting, player development, and front office</li>
-      </ul>
-    </div>
-  </div>
-  <div class="column-card">
-    <div class="column-card-header">
-      <p class="column-card-emoji">🏀</p>
-      <h3>Zelus Analytics</h3>
-    </div>
-    <div class="column-card-body">
-      <p class="column-card-subheader">Senior Machine Learning Engineer</p>
-      <ul class="column-card-list">
-        <li>Engineered the platform powering NBA intelligence products - putting analytics models in the hands of NBA front offices</li>
-        <li>Built multi-sport scalable architecture spanning NFL, NHL, and beyond</li>
-      </ul>
-    </div>
-  </div>
-  <div class="column-card">
-    <div class="column-card-header">
-      <p class="column-card-emoji">👩‍💻</p>
-      <h3>Women in Sports Data</h3>
-    </div>
-    <div class="column-card-body">
-      <p class="column-card-subheader">Co-Founder</p>
-      <ul class="column-card-list">
-        <li>Founded a cross-sport analytics conference - bridging software engineering and analytics across the NBA, NFL, MLB, MLS, and more</li>
-        <li>350+ attendees from every major North American league - panels, keynotes, and a $10k+ hackathon</li>
-      </ul>
-    </div>
-  </div>
-  <div class="column-card">
-    <div class="column-card-header">
-      <p class="column-card-emoji">🧬</p>
-      <h3>Biotech</h3>
-    </div>
-    <div class="column-card-body">
-      <p class="column-card-subheader">Associate Scientist / Data Engineer</p>
-      <ul class="column-card-list">
-        <li>Transitioned from lab scientist to data engineer - building the software and data tools that research teams depended on</li>
-        <li>Cancer immunotherapy (Juno/BMS)</li>
-        <li>Vaccine research (Fred Hutch)</li>
-      </ul>
-    </div>
-  </div>
+<section class="section">
+<div class="section-label">Experience</div>
+<div class="exp-list">
+<div class="exp-item">
+<div class="exp-logo"><img src="/public/phillies-logo.svg" alt="Philadelphia Phillies" class="exp-logo-img" /></div>
+<div class="exp-body">
+<div class="exp-header">
+<span class="exp-title">Head of Data Engineering</span>
+<span class="exp-company">Philadelphia Phillies · Present</span>
 </div>
+<ul class="exp-bullets">
+<li>Lead Data &amp; Biomechanics engineering teams (10+ engineers) within the R&amp;D organization</li>
+<li>Build systems and products that translate model outputs into decisions across baseball ops, scouting, player development, and front office</li>
+</ul>
+</div>
+</div>
+<div class="exp-item">
+<div class="exp-logo"><img src="/public/zelus-logo.jpeg" alt="Zelus Analytics" class="exp-logo-img" /></div>
+<div class="exp-body">
+<div class="exp-header">
+<span class="exp-title">Senior Machine Learning Engineer</span>
+<span class="exp-company">Zelus Analytics</span>
+</div>
+<ul class="exp-bullets">
+<li>Engineered the platform powering NBA intelligence products - putting analytics models in the hands of NBA front offices</li>
+<li>Built multi-sport scalable architecture spanning NFL, NHL, and beyond</li>
+</ul>
+</div>
+</div>
+<div class="exp-item">
+<div class="exp-logo"><img src="/public/wisd-logo.png" alt="Women in Sports Data" class="exp-logo-img" /></div>
+<div class="exp-body">
+<div class="exp-header">
+<span class="exp-title">Co-Founder</span>
+<span class="exp-company">Women in Sports Data</span>
+</div>
+<ul class="exp-bullets">
+<li>Founded a cross-sport analytics conference - bridging software engineering and analytics across the NBA, NFL, MLB, MLS, and more</li>
+<li>350+ attendees from every major North American league - panels, keynotes, and a $10k+ hackathon</li>
+</ul>
+</div>
+</div>
+<div class="exp-item exp-item-last">
+<div class="exp-logo"><img src="/public/bms-logo.jpeg" alt="Bristol Myers Squibb" class="exp-logo-img" /></div>
+<div class="exp-body">
+<div class="exp-header">
+<span class="exp-title">Associate Scientist / Data Engineer</span>
+<span class="exp-company">Biotech · Juno/BMS · Fred Hutch</span>
+</div>
+<ul class="exp-bullets">
+<li>Transitioned from bench scientist to data engineer - building the software and data tools that research teams depended on</li>
+<li>Cancer immunotherapy (Juno/BMS)</li>
+<li>Vaccine research (Fred Hutch)</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
 
-## <span id="skills">Skills & Technology</span>
-
+<section class="section">
+<div class="section-label">Skills &amp; Technology</div>
 <div class="skills-grid">
-  <div class="column-card-stacked">
-    <div class="column-card-header">
-      <p class="column-card-emoji">💻</p>
-      <h3>Languages & Tools</h3>
-    </div>
-    <div class="column-card-body">
-      <p>Python · R · SQL · C# · REST APIs · Lua · Bash · zsh · neovim · tmux</p>
-    </div>
-  </div>
-  <div class="column-card-stacked">
-    <div class="column-card-header">
-      <p class="column-card-emoji">☁️</p>
-      <h3>Infrastructure</h3>
-    </div>
-    <div class="column-card-body">
-      <p>Google Cloud Platform · Kubernetes · Docker · Apache Airflow · Terraform · CI/CD</p>
-    </div>
-  </div>
-  <div class="column-card-stacked">
-    <div class="column-card-header">
-      <p class="column-card-emoji">🗄️</p>
-      <h3>Data & Databases</h3>
-    </div>
-    <div class="column-card-body">
-      <p>dbt · PostgreSQL · BigQuery</p>
-    </div>
-  </div>
+<div class="skill-card">
+<div class="skill-label">Languages &amp; Tools</div>
+<p class="skill-text">Python · R · SQL · C# · Lua · Bash · Zsh · Neovim · Tmux · REST APIs</p>
 </div>
-
-## <span id="professional-contributions">Professional Contributions</span>
-
-<div class="contributions-grid">
-  <a href="#" class="contrib-card">
-    <img src="/public/wisd-2023-thumb.png" alt="Women in Sports Data 2023" class="contrib-thumb contrib-thumb-wisd" />
-    <div class="contrib-content">
-      <strong class="contrib-title">Panel Moderator</strong>
-      <span class="contrib-subtitle">Women in Sports Data 2023</span>
-      <span class="contrib-text">Panel discussion on data-driven player performance</span>
-    </div>
-  </a>
-  <a href="https://open.spotify.com/episode/52r1dKhCgBUi1QNHrxdzAv" target="_blank" rel="noopener" class="contrib-card">
-    <img src="/public/double-pivot-thumb.png" alt="The Double Pivot" class="contrib-thumb contrib-thumb-double-pivot" />
-    <div class="contrib-content">
-      <strong class="contrib-title">Podcast Guest</strong>
-      <span class="contrib-subtitle">The Double Pivot - World Cup Quarterfinals (with Arielle Dror)</span>
-      <span class="contrib-text">Breaking down the Women's World Cup quarterfinals - match analysis and the state of women's soccer</span>
-    </div>
-  </a>
-  <a href="https://www.youtube.com/watch?v=ETnbTTQyTH8&t=7431s" target="_blank" rel="noopener" class="contrib-card">
-    <img src="https://img.youtube.com/vi/ETnbTTQyTH8/mqdefault.jpg" alt="WiDS NYC Talk" class="contrib-thumb contrib-thumb-youtube" />
-    <div class="contrib-content">
-      <strong class="contrib-title">Technical Talk</strong>
-      <span class="contrib-subtitle">WiDS NYC @ Buzzer</span>
-      <span class="contrib-text">Deep dive on building and deploying ML systems for NBA front offices</span>
-    </div>
-  </a>
-  <a href="#" class="contrib-card">
-    <img src="/public/wisd-thumb.png" alt="Women in Sports Data" class="contrib-thumb contrib-thumb-wisd" />
-    <div class="contrib-content">
-      <strong class="contrib-title">Panelist</strong>
-      <span class="contrib-subtitle">Women in Sports Data 2022</span>
-      <span class="contrib-text">Panel on engineering practices in sports analytics</span>
-    </div>
-  </a>
-  <a href="https://pubmed.ncbi.nlm.nih.gov/35803696/" target="_blank" rel="noopener" class="contrib-card">
-    <img src="/public/jci-thumb.png" alt="Journal of Clinical Investigation Insights" class="contrib-thumb contrib-thumb-jci" />
-    <div class="contrib-content">
-      <strong class="contrib-title">Published 3rd Author</strong>
-      <span class="contrib-subtitle">Journal of Clinical Investigation Insights</span>
-      <span class="contrib-text">Research paper about T cell responses to HIV vaccines</span>
-    </div>
-  </a>
+<div class="skill-card">
+<div class="skill-label">Infrastructure</div>
+<p class="skill-text">Google Cloud Platform · Kubernetes · Docker · Apache Airflow · Terraform · CI/CD</p>
 </div>
-
-## <span id="education">Education</span>
-
-<div class="three-columns">
-  <div class="column-card-stacked">
-    <div class="column-card-header">
-      <p class="column-card-emoji">🎓</p>
-      <h3>University of Puget Sound</h3>
-    </div>
-    <div class="column-card-body">
-      <p class="column-card-subheader">B.S. Molecular &amp; Cellular Biology · Minor in Mathematics</p>
-      <p>Varsity Soccer (GK) · Varsity Basketball (PG/SG)</p>
-    </div>
-  </div>
-  <div class="column-card-stacked">
-    <div class="column-card-header">
-      <p class="column-card-emoji">📊</p>
-      <h3>University of Washington</h3>
-    </div>
-    <div class="column-card-body">
-      <p class="column-card-subheader">Certificate in Data Science · 2019</p>
-    </div>
-  </div>
+<div class="skill-card">
+<div class="skill-label">Data &amp; Databases</div>
+<p class="skill-text">dbt · PostgreSQL · BigQuery</p>
 </div>
+</div>
+</section>
 
-<p class="closing">Always open to chopping it up about sports, software, or anything in between.</p>
+<section class="section">
+<div class="section-label">Professional Contributions</div>
+<div class="contrib-grid">
+<a href="https://www.youtube.com/watch?v=ETnbTTQyTH8&t=7431s" target="_blank" rel="noopener" class="contrib-card">
+<div class="contrib-meta">
+<span class="contrib-type">Technical Talk</span>
+<span class="contrib-venue">WiDS NYC @ Buzzer</span>
+</div>
+<div class="contrib-title">Building &amp; deploying ML systems for NBA front offices</div>
+<p class="contrib-desc">Deep dive on building and deploying ML systems for NBA front offices</p>
+</a>
+<a href="https://open.spotify.com/episode/52r1dKhCgBUi1QNHrxdzAv" target="_blank" rel="noopener" class="contrib-card">
+<div class="contrib-meta">
+<span class="contrib-type">Podcast Guest</span>
+<span class="contrib-venue">The Double Pivot</span>
+</div>
+<div class="contrib-title">World Cup Quarterfinals, with Arielle Dror</div>
+<p class="contrib-desc">Breaking down the Women's World Cup quarterfinals - match analysis and the state of women's soccer</p>
+</a>
+<a href="#" class="contrib-card">
+<div class="contrib-meta">
+<span class="contrib-type">Panel Moderator</span>
+<span class="contrib-venue">Women in Sports Data 2023</span>
+</div>
+<div class="contrib-title">The Power of Data in Player Performance</div>
+<p class="contrib-desc">Panel discussion on data-driven player performance</p>
+</a>
+<a href="#" class="contrib-card">
+<div class="contrib-meta">
+<span class="contrib-type">Panelist</span>
+<span class="contrib-venue">Women in Sports Data 2022</span>
+</div>
+<div class="contrib-title">Software Engineering for Sports Analytics</div>
+<p class="contrib-desc">Panel on engineering practices in sports analytics</p>
+</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35803696/" target="_blank" rel="noopener" class="contrib-card contrib-card-full">
+<div class="contrib-meta">
+<span class="contrib-type">Published · 3rd Author</span>
+<span class="contrib-venue">Journal of Clinical Investigation Insights</span>
+</div>
+<div class="contrib-title">T-cell responses to HIV vaccines</div>
+<p class="contrib-desc">Research paper about T cell responses to HIV vaccines</p>
+</a>
+</div>
+</section>
 
-<div class="contact-icons closing-icons">
-  <a href="mailto:caseyluna25@gmail.com" target="_blank" aria-label="Email">
-    <svg width="24" height="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <path d="M12 13.065 2.4 6.6A1 1 0 0 1 3 5h18a1 1 0 0 1 .6 1.8L12 13.065zM3 8.097V18h18V8.097l-9 6-9-6z"/>
-    </svg>
-  </a>
-  <a href="https://github.com/caseyluna" target="_blank" aria-label="GitHub">
-    <svg width="24" height="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.387.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.757-1.333-1.757-1.09-.745.084-.729.084-.729 1.205.084 1.84 1.236 1.84 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.418-1.305.762-1.605-2.665-.3-5.467-1.334-5.467-5.93 0-1.31.47-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23a11.5 11.5 0 0 1 3-.405c1.02.005 2.045.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.435.375.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
-    </svg>
-  </a>
-  <a href="https://www.linkedin.com/in/casey-luna" target="_blank" aria-label="LinkedIn">
-    <svg width="24" height="24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <path d="M20.447 20.452h-3.554v-5.569c0-1.327-.026-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.937v5.669h-3.554V9h3.414v1.561h.049c.476-.899 1.637-1.848 3.367-1.848 3.6 0 4.267 2.368 4.267 5.455v6.284zM5.337 7.433a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124zM6.956 20.452H3.716V9h3.24v11.452zM22.225 0H1.771C.792 0 0 .771 0 1.723v20.555C0 23.229.792 24 1.771 24h20.451C23.2 24 24 23.229 24 22.278V1.723C24 .771 23.2 0 22.222 0z"/>
-    </svg>
-  </a>
+<section class="section">
+<div class="section-label">Education</div>
+<div class="edu-grid">
+<div class="edu-card">
+<div class="edu-school">University of Puget Sound</div>
+<p class="edu-degree">B.S. Molecular &amp; Cellular Biology · Minor in Mathematics</p>
+<p class="edu-sports">Varsity Soccer (GK) · Varsity Basketball (PG/SG)</p>
+</div>
+<div class="edu-card">
+<div class="edu-school">University of Washington</div>
+<p class="edu-degree">Certificate in Data Science · 2019</p>
+</div>
+</div>
+</section>
+
+<footer class="site-footer">
+<p class="footer-closing">Always open to chopping it up about sports, software, or anything in between.</p>
+<div class="footer-links">
+<a class="lnk" href="mailto:caseyluna25@gmail.com">Email</a>
+<a class="lnk" href="https://github.com/caseyluna" target="_blank" rel="noopener">GitHub</a>
+<a class="lnk" href="https://www.linkedin.com/in/casey-a-luna" target="_blank" rel="noopener">LinkedIn</a>
+</div>
+<p class="footer-copy">© 2026 Casey Luna</p>
+</footer>
+
 </div>
