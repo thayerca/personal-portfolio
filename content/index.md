@@ -1,96 +1,214 @@
 ---
-title: "Casey Luna | Sports Analytics & Data Engineering Leader"
-description: "Casey Luna — Head of Data Engineering at the Philadelphia Phillies. Co-founder of Women in Sports Data. Speaker on ML infrastructure, sports analytics, and engineering leadership."
+title: "Casey Luna | Sports Software & Analytics"
+description: "Casey Luna - Head of Data Engineering at the Philadelphia Phillies. Co-Founder of Women in Sports Data. Former collegiate dual-sport athlete building software products that translate analytics into front office decisions."
 ---
 
-*Data Engineering at the Phillies. Building systems that turn data into competitive advantage.*
+<div class="hero-section">
+<div class="hero-inner">
+<header class="hero-header">
+<img src="/public/headshot.png" alt="Casey Luna" class="hero-headshot" />
+<div class="hero-info">
+<div class="hero-label"></div>
+<h1 class="hero-name">Casey Luna</h1>
+<p class="hero-role">Head of Data Engineering at the <span class="hero-role-accent">Philadelphia Phillies</span></p>
+<p class="hero-tagline">Collegiate Dual-Sport Athlete · R&amp;D Engineering Leader · Front Office Intelligence</p>
+<div class="hero-links">
+<a class="lnk" href="mailto:caseyluna25@gmail.com">Email</a>
+<a class="lnk" href="https://github.com/caseyluna" target="_blank" rel="noopener">GitHub</a>
+<a class="lnk" href="https://www.linkedin.com/in/casey-a-luna" target="_blank" rel="noopener">LinkedIn</a>
+</div>
+</div>
+</header>
+<p class="currently-line"><span class="currently-label">Currently</span>chasing a sub-90 golf round · manifesting another Nuggets chip · enjoying Arsenal being top of the table · exploring new places with my husband & dog</p>
+<section class="about-section">
+<p class="about-text">Sports has always been a major part of my life - I played soccer and basketball at the University of Puget Sound - and even through seven years in biotech moving from bench scientist to data engineer, the pull toward sports never went away. At <span class="text-bright">Zelus Analytics</span> I built the platform behind their NBA intelligence product, working with five NBA teams to supplement their analytics departments before making the switch to baseball. Now at the <span class="text-bright">Phillies</span> I'm part of the R&amp;D leadership team, running Data and Biomechanics engineering (10+ engineers) building the systems and products that support front office decision-making across scouting, player development, coaching, and baseball operations.</p>
+</section>
+</div>
+</div>
 
-Former dual-sport athlete. Co-founded [Women in Sports Data](https://womeninsportsdata.org). Forever sports sicko.
+<div class="main-content">
 
-Outside of work I tinker — built my own PC, obsess over my dev environment (Neovim + tmux), and chase a sub-90 round in golf. Recently picked up tennis.
+<section class="section">
+<div class="section-label">Experience</div>
+<div class="exp-list">
+<div class="exp-item">
+<div class="exp-logo"><img src="/public/phillies-logo.svg" alt="Philadelphia Phillies" class="exp-logo-img" /></div>
+<div class="exp-body">
+<div class="exp-header">
+<span class="exp-title">Head of Data Engineering</span>
+<span class="exp-company">Philadelphia Phillies · Present</span>
+</div>
+<ul class="exp-bullets">
+<li>Lead Data &amp; Biomechanics engineering teams (10+ engineers) within the R&amp;D organization</li>
+<li>Build systems and products that translate model outputs into decisions across baseball ops, scouting, player development, and front office</li>
+</ul>
+</div>
+</div>
+<div class="exp-item">
+<div class="exp-logo"><img src="/public/zelus-logo.jpeg" alt="Zelus Analytics" class="exp-logo-img" /></div>
+<div class="exp-body">
+<div class="exp-header">
+<span class="exp-title">Senior Machine Learning Engineer</span>
+<span class="exp-company">Zelus Analytics</span>
+</div>
+<ul class="exp-bullets">
+<li>Engineered the platform powering NBA intelligence products - putting analytics models in the hands of NBA front offices</li>
+<li>Built multi-sport scalable architecture spanning NFL, NHL, and beyond</li>
+</ul>
+</div>
+</div>
+<div class="exp-item">
+<div class="exp-logo"><img src="/public/wisd-logo.png" alt="Women in Sports Data" class="exp-logo-img" /></div>
+<div class="exp-body">
+<div class="exp-header">
+<span class="exp-title">Co-Founder</span>
+<span class="exp-company">Women in Sports Data</span>
+</div>
+<ul class="exp-bullets">
+<li>Founded a cross-sport analytics conference - bridging software engineering and analytics across the NBA, NFL, MLB, MLS, and more</li>
+<li>350+ attendees from every major North American league - panels, keynotes, and a $10k+ hackathon</li>
+</ul>
+</div>
+</div>
+<div class="exp-item exp-item-last">
+<div class="exp-logo"><img src="/public/bms-logo.jpeg" alt="Bristol Myers Squibb" class="exp-logo-img" /></div>
+<div class="exp-body">
+<div class="exp-header">
+<span class="exp-title">Associate Scientist / Data Engineer</span>
+<span class="exp-company">Biotech · Juno/BMS · Fred Hutch</span>
+</div>
+<ul class="exp-bullets">
+<li>Transitioned from bench scientist to data engineer - building the software and data tools that research teams depended on</li>
+<li>Cancer immunotherapy (Juno/BMS)</li>
+<li>Vaccine research (Fred Hutch)</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
 
-## <span id="work-experience">Work Experience</span>
+<section class="section">
+<div class="section-label">Skills &amp; Technology</div>
+<div class="skills-grid">
+<div class="skill-card">
+<div class="skill-label">Languages &amp; Tools</div>
+<p class="skill-text">Python · R · SQL · C# · Lua · Bash · Zsh · Neovim · Tmux · REST APIs</p>
+</div>
+<div class="skill-card">
+<div class="skill-label">Infrastructure</div>
+<p class="skill-text">Google Cloud Platform · Kubernetes · Docker · Apache Airflow · Terraform · CI/CD</p>
+</div>
+<div class="skill-card">
+<div class="skill-label">Data &amp; Databases</div>
+<p class="skill-text">dbt · PostgreSQL · BigQuery</p>
+</div>
+</div>
+</section>
 
-**Manager, Software Engineering - Philadelphia Phillies** (_Oct 2024 - Present_)
+<section class="section">
+<div class="section-label">Professional Contributions</div>
+<div class="contrib-grid">
+<a href="https://www.youtube.com/watch?v=ETnbTTQyTH8&t=7431s" target="_blank" rel="noopener" class="contrib-card">
+<div class="contrib-card-inner">
+<img src="https://img.youtube.com/vi/ETnbTTQyTH8/mqdefault.jpg" alt="WiDS NYC Talk" class="contrib-logo" />
+<div class="contrib-body">
+<div class="contrib-meta">
+<span class="contrib-type">Technical Talk</span>
+<span class="contrib-venue">WiDS NYC @ Buzzer</span>
+</div>
+<div class="contrib-title">Building &amp; deploying ML models for NBA front offices</div>
+<p class="contrib-desc">Deep dive on building agile infrastructure to deploy ML models for NBA front offices</p>
+</div>
+</div>
+</a>
+<a href="https://open.spotify.com/episode/52r1dKhCgBUi1QNHrxdzAv" target="_blank" rel="noopener" class="contrib-card">
+<div class="contrib-card-inner">
+<img src="/public/double-pivot-thumb.png" alt="The Double Pivot" class="contrib-logo" />
+<div class="contrib-body">
+<div class="contrib-meta">
+<span class="contrib-type">Podcast Guest</span>
+<span class="contrib-venue">The Double Pivot</span>
+</div>
+<div class="contrib-title">World Cup Quarterfinals, with Arielle Dror</div>
+<p class="contrib-desc">Breaking down the Women's World Cup quarterfinals - match analysis and the state of women's soccer</p>
+</div>
+</div>
+</a>
+<a href="#" class="contrib-card">
+<div class="contrib-card-inner">
+<img src="/public/wisd-2023-thumb.png" alt="Women in Sports Data 2023" class="contrib-logo" />
+<div class="contrib-body">
+<div class="contrib-meta">
+<span class="contrib-type">Panel Moderator</span>
+<span class="contrib-venue">Women in Sports Data 2023</span>
+</div>
+<div class="contrib-title">The Power of Data in Player Performance</div>
+<p class="contrib-desc">Panel discussion on data-driven player performance</p>
+</div>
+</div>
+</a>
+<a href="#" class="contrib-card">
+<div class="contrib-card-inner">
+<img src="/public/wisd-thumb.png" alt="Women in Sports Data 2022" class="contrib-logo" />
+<div class="contrib-body">
+<div class="contrib-meta">
+<span class="contrib-type">Panelist</span>
+<span class="contrib-venue">Women in Sports Data 2022</span>
+</div>
+<div class="contrib-title">Software Engineering for Sports Analytics</div>
+<p class="contrib-desc">Panel on engineering practices in sports analytics</p>
+</div>
+</div>
+</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35803696/" target="_blank" rel="noopener" class="contrib-card contrib-card-full">
+<div class="contrib-card-inner">
+<img src="/public/jci-thumb.png" alt="Journal of Clinical Investigation Insights" class="contrib-logo" />
+<div class="contrib-body">
+<div class="contrib-meta">
+<span class="contrib-type">Published · 3rd Author</span>
+<span class="contrib-venue">Journal of Clinical Investigation Insights</span>
+</div>
+<div class="contrib-title">T helper2 transcriptional profile predicts single-cell HIV envelope-specific polyfunctional CD4+ T cells correlated with reduced risk of infection in RV144 trial</div>
+<p class="contrib-desc">Research paper about T cell responses to HIV vaccines</p>
+</div>
+</div>
+</a>
+</div>
+</section>
 
-- Head of Data & Biomech Engineering: Direct a nine person team within the Phillies’ Baseball R&D department, building the data systems that power decision-making across scouting, coaching, player development, and the front office.
-- Define the technical vision and roadmap for how data moves through the organization ensuring reliability, scalability, and impact across baseball operations.
+<section class="section">
+<div class="section-label">Education</div>
+<div class="edu-grid">
+<div class="edu-card">
+<div class="edu-card-inner">
+<img src="/public/puget-sound-logo.jpg" alt="University of Puget Sound" class="edu-logo" />
+<div class="edu-body">
+<div class="edu-school">University of Puget Sound</div>
+<p class="edu-degree">B.S. Molecular &amp; Cellular Biology · Minor in Mathematics</p>
+<p class="edu-sports">Varsity Soccer (GK) · Varsity Basketball (PG/SG)</p>
+</div>
+</div>
+</div>
+<div class="edu-card">
+<div class="edu-card-inner">
+<img src="/public/washington-logo.png" alt="University of Washington" class="edu-logo" />
+<div class="edu-body">
+<div class="edu-school">University of Washington</div>
+<p class="edu-degree">Certificate in Data Science · 2019</p>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-**Engineering Lead - Zelus Analytics** (_Aug 2023 - Oct 2024_)
+<footer class="site-footer">
+<p class="footer-closing">Always open to chopping it up about sports, software, or anything in between.</p>
+<div class="footer-links">
+<a class="lnk" href="mailto:caseyluna25@gmail.com">Email</a>
+<a class="lnk" href="https://github.com/caseyluna" target="_blank" rel="noopener">GitHub</a>
+<a class="lnk" href="https://www.linkedin.com/in/casey-a-luna" target="_blank" rel="noopener">LinkedIn</a>
+</div>
+<p class="footer-copy">© 2026 Casey Luna</p>
+</footer>
 
-- Led the design and development of the engineering platform powering the NBA intelligence product, delivering production-ready models tailored to team needs in collaboration with product and data science.
-- Built company-wide architecture supporting multi-sport platforms and partnered with teams to deliver scalable, high-impact solutions.
-
-**Machine Learning Engineer** - Zelus Analytics (_Oct 2021 - Aug 2023_)
-
-**Data Engineer / Scientist** - Bristol Myers Squibb (_Mar 2020 - Oct 2021_)
-
-**Senior Research Associate** - Juno Therapeutics (_Apr 2017 - Mar 2020_)
-
-**Research Technician I-II** - Fred Hutch Cancer Research Center (_Jan 2015 - Apr 2017_)
-
-## <span id="community-impact">Community Impact</span>
-
-**[Women in Sports Data](https://womeninsportsdata.org/)** - _Co-Founder_
-
-**Social Impact Analytics Institute** - _[Former] Non-Profit Founder, Senior Data Scientist_
-
-## <span id="professional-contributions">Professional Contributions</span>
-
-- **Panel Moderator — Women in Sports Data 2023**: _The Power of Data in Player Performance_
-
-- **Podcast Guest — The Double Pivot**: [_World Cup Quarterfinals (with Arielle Dror)_](https://open.spotify.com/episode/52r1dKhCgBUi1QNHrxdzAv)
-
-- **Technical Talk — WiDS NYC @ Buzzer**: [_Agile Infrastructure for Building & Deploying ML Models for NBA Teams_](https://www.youtube.com/watch?v=ETnbTTQyTH8&t=7431s)
-
-- **Panelist — Women in Sports Data 2022**: _Software Engineering for Sports Analytics_
-
-- **3rd Author — Publication in Journal of Clinical Investigation Insights**: [_Th2-Biased Transcriptional Profile Predicts HIV Envelope-Specific Polyfunctional CD4+ T Cells That Correlated with Reduced Risk of Infection in RV144 Trial_](https://pubmed.ncbi.nlm.nih.gov/35803696/)
-
-## <span id="contact">Contact</span>
-
-Interested in having me speak at your event? Open to opportunities? Get in touch.
-
-<div style="display: flex; gap: 16px; align-items: center;">
-  <!-- Email -->
-  <a href="mailto:caseyluna25@gmail.com" target="_blank" aria-label="Email">
-    <svg width="24" height="24" fill="#e63946" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <path d="M12 13.065 2.4 6.6A1 1 0 0 1 3 5h18a1 1 0 0 1 .6 1.8L12 13.065zM3 8.097V18h18V8.097l-9 6-9-6z"/>
-    </svg>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/thayerca" target="_blank" aria-label="GitHub">
-    <svg width="24" height="24" fill="#111111" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 
-      9.8 8.205 11.387.6.113.82-.258.82-.577 
-      0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.757-1.333-1.757-1.09-.745.084-.729.084-.729 
-      1.205.084 1.84 1.236 1.84 1.236 1.07 1.835 2.809 1.305 
-      3.495.998.108-.776.418-1.305.762-1.605-2.665-.3-5.467-1.334-5.467-5.93 
-      0-1.31.47-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 
-      0 1.005-.322 3.3 1.23a11.5 11.5 0 0 1 3-.405c1.02.005 
-      2.045.138 3 .405 2.28-1.552 3.285-1.23 
-      3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 
-      1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 
-      5.92.435.375.81 1.096.81 2.22 0 1.606-.015 2.896-.015 
-      3.286 0 .315.21.69.825.57C20.565 22.092 24 
-      17.592 24 12.297c0-6.627-5.373-12-12-12"/>
-    </svg>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/casey-luna" target="_blank" aria-label="LinkedIn">
-    <svg width="24" height="24" fill="#0077b5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <path d="M20.447 20.452h-3.554v-5.569c0-1.327-.026-3.037-1.852-3.037-1.853 
-      0-2.136 1.445-2.136 2.937v5.669h-3.554V9h3.414v1.561h.049c.476-.899 
-      1.637-1.848 3.367-1.848 3.6 0 4.267 2.368 4.267 
-      5.455v6.284zM5.337 7.433a2.062 2.062 
-      0 1 1 0-4.124 2.062 2.062 0 0 1 0 
-      4.124zM6.956 20.452H3.716V9h3.24v11.452zM22.225 
-      0H1.771C.792 0 0 .771 0 1.723v20.555C0 
-      23.229.792 24 1.771 24h20.451C23.2 24 24 
-      23.229 24 22.278V1.723C24 .771 23.2 0 22.222 
-      0z"/>
-    </svg>
-  </a>
 </div>
